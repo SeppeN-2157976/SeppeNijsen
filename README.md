@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeppeNijsen
-- 🛫 I’m interested in gliding
-- 💻 I’m currently learning Computer Science
+- 🛫 I’m a glider pilot and love ATC
+- 💻 I’m currently studying Computer Science
 - 📫 How to reach me: seppe.nijsen@student.uhasselt.be
 
 <!---
